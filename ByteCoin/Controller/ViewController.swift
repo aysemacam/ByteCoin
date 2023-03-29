@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    
+    var test: String = "test"
     
     @IBOutlet weak var bitcoinLabel: UILabel!
     @IBOutlet weak var currencyLabel: UILabel!
